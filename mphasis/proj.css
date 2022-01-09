@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+.myhotelClass {
+    text-align: center;
+    font-size: 300%;
+    color: Red;
+}
+
+body {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textClass {
+    text-align: center;
+    font-size: 210%;
+    color: Red;
+}
